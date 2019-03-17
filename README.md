@@ -1,5 +1,5 @@
 # GitHubTutorial
-Git learning tutorial
+Git learning tutorial. Changed.
 
 This is my first repository.
 
